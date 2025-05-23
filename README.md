@@ -47,9 +47,9 @@ With the growing complexity of online marketing, managing ads across different p
 
 | Layer       | Technology Used                       |
 |-------------|----------------------------------------|
-| Frontend    | React.js, Axios, Redux (optional)     |
+| Frontend    | React.js   |
 | Backend     | Node.js, Express.js                   |
 | Database    | MongoDB (via Mongoose ORM)            |
 | Authentication | JWT (JSON Web Tokens)             |
 | Dev Tools   | VS Code, Git, Postman, Chrome DevTools |
-| Deployment  | GitHub + Heroku / DigitalOcean / AWS  |
+
